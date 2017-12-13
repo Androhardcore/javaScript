@@ -22,11 +22,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){http://www.inggos.xyz/2017/12/makan-malam.html"}
-if(x=="2"){http://www.inggos.xyz/2017/12/makan-siang.html"}
-if(x=="3"){http://www.inggos.xyz/2017/12/makan-pagi.html"}
-if(x=="4"){http://www.inggos.xyz/2017/12/makan-sore.html"}
-if(x=="5"){http://www.inggos.xyz/2017/12/makan-subuh.html"}a_to_ve[i].href="http://www.inggos.xy"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="http://www.inggos.xyz/2017/12/makan-malam.html"}
+if(x=="2"){xxx="http://www.inggos.xyz/2017/12/makan-siang.html"}
+if(x=="3"){xxx="http://www.inggos.xyz/2017/12/makan-pagi.html"}
+if(x=="4"){xxx="http://www.inggos.xyz/2017/12/makan-sore.html"}
+if(x=="5"){xxx="http://www.inggos.xyz/2017/12/makan-subuh.html"}a_to_ve[i].href="http://www.inggos.xy"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
